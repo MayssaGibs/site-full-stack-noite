@@ -19,8 +19,8 @@ Projeto desenvolvimento para aprendizagem de:
 
 ## Equipe
 
-- Daniel
-- Liliane Dias
+- Daniel Teixeira Paixão
+- Liliane Mendes dos Santos
 - Mainara Monteiro Barbosa
 - Mayssa Gibson de Oliveira
 
@@ -28,10 +28,10 @@ Projeto desenvolvimento para aprendizagem de:
 
 Projeto criado durante a disciplina de Metodologia Ágeis.
 
-## Funcionalidades Desenvolvidas
+## Novas Funcionalidades Desenvolvidas
 
 - Seção Sobre com descrição do projeto;
 - Seção Equipe com nome dos integrantes;
 - Seção contato com email;
 - Melhorias visuais: espaçamentos, cores padronizadas, efeitos hover.
-- mensagem de boas-vindas ao carregar a página.
+- Mensagem de boas-vindas ao carregar a página.
